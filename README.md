@@ -1,4 +1,8 @@
 ## Hi there 👋
+:woman_teacher: I am an enthusiastic Computer Science educator. 
+I enjoy challenging students, enabling them to produce innovative and creative solutions.
+	:dart: I am looking to collaborate with other post-secondary educators to discuss and share new ideas and trends in CS education.
+
 
 <!--
 **EstherParnes/EstherParnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
