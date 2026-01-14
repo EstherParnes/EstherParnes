@@ -2,7 +2,9 @@
 :woman_teacher: I am an enthusiastic Computer Science educator. 
 I enjoy challenging students, enabling them to produce innovative and creative solutions.
 	:dart: I am looking to collaborate with other post-secondary educators to discuss and share new ideas and trends in CS education.
-[![Esther's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstherParnes)](https://github.com/anuraghazra/github-readme-stats)
+	
+[![Esther's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstherParnes)](https://github.com/EstherParnes)
+
 
 
 <!--
